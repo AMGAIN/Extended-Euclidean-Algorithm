@@ -38,10 +38,7 @@ git clone https://github.com/yourusername/extended-euclidean-algorithm.git
 cd extended-euclidean-algorithm
 g++ main.cpp -o eea
 ./eea
-📂 Files
-main.cpp - Main implementation of the algorithm
 
-README.md - Project description and usage
 
 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it.
