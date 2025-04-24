@@ -28,13 +28,3 @@ x: 1
 y: -1
 
 Explanation: 30×1 + 20×(-1) = 10
-🚀 Usage
-You can clone the repo and run the code using any C++ compiler:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/extended-euclidean-algorithm.git
-cd extended-euclidean-algorithm
-g++ main.cpp -o eea
-./eea
